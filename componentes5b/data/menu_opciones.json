@@ -1,0 +1,31 @@
+{
+    "nombre" : "Componetes 6b",
+    "iocnApp":  "icon",
+    "rutas" :[
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto"  : "Alertas",
+            "texto2" : "se mostraran alertas"
+        },
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto"  : "Alertas",
+            "texto2" : "se mostraran alertas"
+        },
+        {
+            "ruta" : "camara",
+            "icon" : "camera",
+            "texto"  : "Acceder a la camera",
+            "texto2" : "se tomara una foto "
+        },
+        {
+            "ruta" : "firebase",
+            "icon" : "data",
+            "texto"  : "Firebase",
+            "texto2" : "Acceso a Firebase Storage"
+        }
+    ]
+            
+}
